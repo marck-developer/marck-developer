@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marck-developer&show_icons=true&locale=en&layout=compact&theme=dark" alt="marck-developer" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=marck-developer&show_icons=true&locale=en" alt="marck-developer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marck-developer&show_icons=true&locale=en&layout=compact&theme=dark" alt="marck-developer" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=marck-developer&show_icons=true&locale=en&theme=dark" alt="marck-developer" /></p>
 
 <!--
 **marck-developer/marck-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
