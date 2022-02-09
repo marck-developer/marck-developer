@@ -26,6 +26,7 @@ Full Stack Developer with MERN (MongoDB, Express , React, Node JS) with a strong
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" style="width:50px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" style="width:50px;"/>
   </div>
+  <br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marck-developer&show_icons=true&locale=en&layout=compact&theme=dark" alt="marck-developer" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=marck-developer&show_icons=true&locale=en&theme=dark" alt="marck-developer" /></p>
